@@ -1,4 +1,4 @@
-27222570759243262
+27229696406807667
 1043
 BAT_1043
 
@@ -71812,6 +71812,34 @@ Yellow 5381 Series LED
 0
 2
 2
+Library
+micro USB type B robusku_108160
+
+
+0
+9
+6
+Library
+screwterminal_PHOENIX_1751248
+
+
+0
+2
+2
+Library
+tactile switch 4.5_4.5
+
+
+0
+4
+2
+Library
+usb_micro_btype_robusku_108160
+
+
+0
+0
+0
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
